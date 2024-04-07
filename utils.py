@@ -1,5 +1,5 @@
 """
-Note: utils file code is taken from: https://github.com/deepfindr/gnn-project/blob/main/dataset.py
+Note: utils.py file code is taken from: https://github.com/deepfindr/gnn-project/blob/main/dataset.py
 """
 import torch
 import numpy as np
