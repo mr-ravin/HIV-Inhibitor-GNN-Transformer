@@ -10,23 +10,23 @@ This repository includes code for classifying if a given molecule can act as a H
 |-- model.py
 |-- utils.py
 |-- graphics_utils.py
-|-- run.py
+|-- main.py
 |-- requirements.txt
 ```
 
 ### Train and Test
 ```
-python3 run.py --mode full
+python3 main.py --mode full
 ```
 
 ### Train only
 ```
-python3 run.py --mode train
+python3 main.py --mode train
 ```
 
 ### Test only
 ```
-python3 run.py --mode test
+python3 main.py --mode test
 ```
 
 ![analysis image](https://github.com/mr-ravin/HIV-Inhibitor-GNN-Transformer/blob/main/result/training_analysis.png?raw=true)
