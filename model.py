@@ -1,6 +1,3 @@
-"""
-Note: model.py file code is taken from: https://github.com/deepfindr/gnn-project/
-"""
 import torch
 import torch.nn.functional as F 
 from torch.nn import Linear, BatchNorm1d, ModuleList
